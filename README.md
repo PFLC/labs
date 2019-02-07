@@ -1,3 +1,5 @@
+![](http://tectijuana.edu.mx/wp-content/uploads/2014/11/Logo-Centro-de-Computo.png)
+
 # ccitt
 Sistema Integran de Centro de Cómputo
 
