@@ -4,10 +4,9 @@
 
 # Ubuntu Setup de Labs
 ```
-sudo add-apt-repository ppa:danielrichter2007/grub-customizer
-sudo apt-get update
-sudo apt-get install grub-customizer
-sudo apt install gdebi-core
+sudo add-apt-repository ppa:danielrichter2007/grub-customizer -y
+sudo apt-get update 
+sudo apt-get install grub-customizer gdebi-core
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo gdebi google-chrome-stable_current_amd64.deb
 ```
