@@ -29,7 +29,7 @@ sudo update-alternatives --config x-www-browser
 Seleccionar CERO
 
 # Borrar y crear este archivo para INCOGNITO, preciona con CTRL+Y, y pegar el contenido de abajo.
-    sudo nano /usr/share/applications/google-chrome.desktop  
+    sudo gedit /usr/share/applications/google-chrome.desktop  
 
 *Reemplazo*
 ```
