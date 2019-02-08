@@ -2,22 +2,23 @@
 ![](Logo-TecNM.jpg)
 
 # Repo de Centro de Cómputo Unidad Otay
-
-#Gparted para RESIZE 100gb
+ Gparted para RESIZE 100gb
 
 # Ubuntu Setup de Labs
 ```
 sudo add-apt-repository ppa:danielrichter2007/grub-customizer
+
 sudo apt-get update
-sudo apt-get install grub-customizer gdebi-core -y &
+sudo apt-get install grub-customizer gdebi-core -y 
+
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb 
-sudo gdebi google-chrome-stable_current_amd64.deb -y
+sudo gdebi google-chrome-stable_current_amd64.deb 
 ```
 
 ## Poner Logotipo en GrubCustomizer  /home/estudiante/(directorio)
 ### Windows DEFAULT a 120 seg
-### Resolucion 1600x1200
-### Resaltado: Fondo VERDE
+ Resolucion 1600x1200
+ Resaltado: Fondo VERDE
 
 # son como 200mb de actualizaciones
 sudo apt-get upgrade -y 
@@ -28,7 +29,7 @@ sudo update-alternatives --config x-www-browser
 Seleccionar CERO
 
 # Borrar y crear este archivo para INCOGNITO, preciona con CTRL+Y, y pegar el contenido de abajo.
-sudo nano /usr/share/applications/google-chrome.desktop  
+    sudo nano /usr/share/applications/google-chrome.desktop  
 
 *Reemplazo*
 ```
