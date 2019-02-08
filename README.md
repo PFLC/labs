@@ -15,6 +15,9 @@ sudo gdebi google-chrome-stable_current_amd64.deb -y
 ```
 
 ## Poner Logotipo en GrubCustomizer
+### Windows DEFAULT a 120 seg
+### Resolucion 1600x1200
+### Resaltado: Fondo VERDE
 
 sudo apt-get upgrade -y 
 
