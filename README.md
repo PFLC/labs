@@ -14,10 +14,11 @@ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo gdebi google-chrome-stable_current_amd64.deb -y
 ```
 
-## Poner Logotipo en GrubCustomizer
+## Poner Logotipo en GrubCustomizer  /home/estudiante/(directorio)
 ### Windows DEFAULT a 120 seg
 ### Resolucion 1600x1200
 ### Resaltado: Fondo VERDE
 
+# son como 200mb de actualizaciones
 sudo apt-get upgrade -y 
 
