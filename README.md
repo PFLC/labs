@@ -1,4 +1,5 @@
 ![](http://tectijuana.edu.mx/wp-content/uploads/2014/11/Logo-Centro-de-Computo.png)
+![](Logo-TecNM.jpg)
 
 # Repo de Centro de Cómputo Unidad Otay
 
@@ -10,3 +11,5 @@ sudo apt-get install grub-customizer gdebi-core
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo gdebi google-chrome-stable_current_amd64.deb
 ```
+
+
