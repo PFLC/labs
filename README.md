@@ -1,5 +1,5 @@
-![](http://tectijuana.edu.mx/wp-content/uploads/2014/11/Logo-Centro-de-Computo.png)
-![](TecLinux.png)
+
+![]()
 
 # Repo de Centro de Cómputo Unidad Otay
  Gparted para RESIZE 100gb
