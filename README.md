@@ -1,5 +1,5 @@
 
-![](logo.jpg)
+![](logo45.jpg)
 
 # Repo de Centro de Cómputo Unidad Otay
  Gparted para RESIZE 100gb
