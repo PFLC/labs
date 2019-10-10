@@ -5,6 +5,14 @@
  Gparted para RESIZE 100gb
  Invitar a Ubuntu 18 se instale tarda 20 minutos
  
+ # Algun problema con el APT que marca error:
+
+    sudo apt clean
+    sudo apt autoclean
+    sudo apt -f install
+    sudo dpkg --configure -a
+    sudo apt -f install
+ 
 # Ubuntu Setup de Labs, es 1 linea y par de lineas.
 ```
 // Para la dual particion y poner foto imagen
