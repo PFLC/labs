@@ -33,7 +33,8 @@ sudo gdebi google-chrome-stable_current_amd64.deb
 ## recordar borrar todo lo que aparece porque sera reemplazado por abajo...(usar CTR+A, delete)
 
     sudo gedit /usr/share/applications/google-chrome.desktop  
-
+    // Y presiona CRTL + A y despues tecla DELETE
+    
 *Reemplazo*  (copy-paste)
 ```
 #!/usr/bin/env xdg-open
