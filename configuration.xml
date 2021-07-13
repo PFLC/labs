@@ -1,0 +1,43 @@
+<Configuration ID="74a09db9-ee2c-4300-b40c-52eae716eb48">
+  <Info Description="OFFICE STANDARD 2019 ACTIVADO PARA LAS VORAGO" />
+  <Add OfficeClientEdition="64" Channel="PerpetualVL2019">
+    <Product ID="Standard2019Volume" PIDKEY="-------------">
+      <Language ID="es-es" />
+      <ExcludeApp ID="Groove" />
+      <ExcludeApp ID="OneDrive" />
+      <ExcludeApp ID="OneNote" />
+      <ExcludeApp ID="Outlook" />
+    </Product>
+    <Product ID="LanguagePack">
+      <Language ID="es-es" />
+    </Product>
+	    <Product ID="Visio2019Volume">
+      <Language ID="es-es" />
+    </Product>
+	    <Product ID="Access2019Volume">
+      <Language ID="es-es" />
+    </Product>
+  </Add>
+  <Property Name="SharedComputerLicensing" Value="0" />
+  <Property Name="SCLCacheOverride" Value="0" />
+  <Property Name="AUTOACTIVATE" Value="0" />
+  <Property Name="FORCEAPPSHUTDOWN" Value="FALSE" />
+  <Property Name="DeviceBasedLicensing" Value="0" />
+  <Updates Enabled="FALSE" />
+  <RemoveMSI />
+  <AppSettings>
+     <Setup Name="Company" Value="PREPARATORIA FEDERAL LAZARO CARDENAS" />
+    <User Key="software\microsoft\office\16.0\common\sharepointintegration" Name="hidelearnmorelink" Value="1" Type="REG_DWORD" App="office16" Id="L_HideTheLearnMoreAboutSharePointHyperlink" />
+    <User Key="software\microsoft\office\16.0\common\autocorrect" Name="correcttwoinitialcapitals" Value="0" Type="REG_DWORD" App="office16" Id="L_CorrectTWoINitialCApitals" />
+    <User Key="software\microsoft\office\16.0\common\autocorrect" Name="capitalizesentence" Value="1" Type="REG_DWORD" App="office16" Id="L_Capitalizefirstletterofsentence" />
+    <User Key="software\microsoft\office\16.0\common\autocorrect" Name="capitalizenamesofdays" Value="0" Type="REG_DWORD" App="office16" Id="L_Capitalizenamesofdays" />
+    <User Key="software\microsoft\office\16.0\common\autocorrect" Name="togglecapslock" Value="1" Type="REG_DWORD" App="office16" Id="L_CorrectaccidentaluseofcAPSLOCKkey" />
+    <User Key="software\microsoft\office\16.0\common\internet" Name="donotcheckifofficeishtmleditor" Value="1" Type="REG_DWORD" App="office16" Id="L_CheckifOfficeisthedefaulteditorforWebpagescreatedinOffice" />
+    <User Key="software\microsoft\office\16.0\common\internet" Name="allowpng" Value="1" Type="REG_DWORD" App="office16" Id="L_AllowPNGasanoutputformat" />
+    <User Key="software\microsoft\office\16.0\common" Name="sendcustomerdata" Value="0" Type="REG_DWORD" App="office16" Id="L_Sendcustomerdata" />
+  </AppSettings>
+  <Display Level="None" AcceptEULA="TRUE" />
+</Configuration>
+
+
+
