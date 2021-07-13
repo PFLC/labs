@@ -52,3 +52,11 @@ MimeType=text/html;text/xml;application/xhtml_xml;x-scheme-handler/http;x-scheme
 # Correr Grub-Customizer seleccionando 
 > Windows Boot Manager a **60 segundos con un ENTER** (de lo contrario no lo acepta)
 > Poner el fondo de pantalla de logotipo45.jpeg se guarda en la carpeta de VIDEO.
+
+
+# Office 2019 VL
+> Descargar hasta 30 minutos o mas
+setup /download configuration.xml
+
+> Instalar y puede moverse a USB
+setup /config configuration.xml
