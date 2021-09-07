@@ -64,11 +64,11 @@ setup /config configuration.xml
 
 -----
 # Powershell Laps
-
+'''
 net user
 net user prestamo *
 net user soporte *
 Set-LocalUser -Name "prestamo" -PasswordNeverExpires 1
 Set-LocalUser -Name "soporte" -PasswordNeverExpires 1
-
+'''
 
