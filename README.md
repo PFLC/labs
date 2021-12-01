@@ -12,6 +12,12 @@
     sudo apt -f install
     sudo dpkg --configure -a
     sudo apt -f install
+    
+ # MOVER EL ORDEN DEL GRUB
+ 
+cd /etc/grub.d
+sudo mv 30_os-prober 05_os-prober
+sudo update-grub
  
 # Ubuntu Setup de Labs, es 1 linea y par de lineas.
 ```
