@@ -77,6 +77,9 @@ net user soporte *
 Set-LocalUser -Name "prestamo" -PasswordNeverExpires 1
 Set-LocalUser -Name "soporte" -PasswordNeverExpires 1
 
+# Desbloquear usuario
+Disable-LocalUser -Name "Admin02"
+
 ```
 -------
 # Borrar doctos, descargas y roblox
