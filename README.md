@@ -1,4 +1,5 @@
 
+
 ![](logo45.jpg)
 
 # Repo de Laboratorios PFLC
@@ -92,3 +93,8 @@ del /q/f/s %TEMP%\*
 rd %temp% /s /q
 md %temp%
 ```
+---
+# Para ue Chrome no haga perfiles y se purge solo (solo copiar el parametro a Chrome)
+chrome.exe --no-first-run --user-data-dir="C:\TempChrome"
+
+
